@@ -1,5 +1,4 @@
-## Choose a language
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/KykJloBoD/KykJloBoD/blob/main/README.md)
+### Choose a language
 [![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/KykJloBoD/KykJloBoD/blob/main/Readme.ru.md)
 
 
