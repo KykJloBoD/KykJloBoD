@@ -1,7 +1,5 @@
-## Choose a language
+## Выберите язык
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/KykJloBoD/KykJloBoD/blob/main/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/KykJloBoD/KykJloBoD/blob/main/Readme.ru.md)
-
 
 <h1 align="center">Привет, меня зовут Илья!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
