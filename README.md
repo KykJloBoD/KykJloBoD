@@ -1,6 +1,6 @@
 ## Choose a language
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![rus](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/KykJloBoD/KykJloBoD/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/KykJloBoD/KykJloBoD/blob/main/Readme.ru.md)
 
 
 <h1 align="center">Hi there, I'm Ilia 
