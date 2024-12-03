@@ -25,16 +25,12 @@ I am looking for bugs, kindness in people, and meaning in life.
 [RUS version](https://hh.ru/resume/1882ecbfff0dc0f9860039ed1f4c4751305772)
 
 ## Portfolio 
-- Тестовая документация
--  [Чек-листы](https://ссылочку_сюда)
--  [Тест-кейсы](https://ссылочку_сюда)
--  [Mind map](https://drive.google.com/file/d/199N6f6qpX0R549j-qdhSAS7tglXgnNHf/view?usp=sharing)
--  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
--  [Название проекта](https://ссылочку_сюда)
-
-
-
+In the Russian version of the portfolio, there is more content; I am working on the translation in my free time.
+-  [Сhecklist](https://docs.google.com/spreadsheets/d/1juKmuexBYn3mtdmXfKCOLk5JQ_Ax2SWhcqB5Ao8QAkM/edit?usp=drive_link)
+-  [Test Case](https://docs.google.com/document/d/1sVkAPigR90BXvGvVohZ6AB5jKAnyDn79/edit?usp=sharing&ouid=103520387481498853796&rtpof=true&sd=true)
+-  [Mind map](https://drive.google.com/file/d/199N6f6qpX0R549j-qdhSAS7tglXgnNHf/view?usp=drive_link)
+-  [Equivalence classes](https://docs.google.com/spreadsheets/d/1EYRtVWypbM8hiTRU58a07o6-qpQSR8LUOrk2HDbbttY/edit?usp=drive_link)
+  
 ## Tools and technologies
 
 <p align="left">
