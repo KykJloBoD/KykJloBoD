@@ -12,10 +12,9 @@
 
 </div>
 
-## About me
+## Обо мне
 
-I am looking for bugs, kindness in people, and meaning in life.
-
+Ищу баги, доброту в людях и смысл жизни. Живу в Сербии, посетил больше 40 стран, хожу в походы, читаю, играю в компьютерные игры.
 
 ## My CV 
 
@@ -24,13 +23,12 @@ I am looking for bugs, kindness in people, and meaning in life.
 [RUS version](https://hh.ru/resume/1882ecbfff0dc0f9860039ed1f4c4751305772)
 
 ## Portfolio 
-- Тестовая документация
--  [Чек-листы](https://ссылочку_сюда)
--  [Тест-кейсы](https://ссылочку_сюда)
+-  Чек-листы [1](https://docs.google.com/spreadsheets/d/1SpMxN87RGhLSYxhH8NZ1CEdhvbIPGJ17bJDM0biDLs8/edit?usp=drive_link) [2](https://docs.google.com/spreadsheets/d/1jnmteOyiCZGIkCzNH4gittRnl0HaVzimIqvL_WU4FH8/edit?usp=drive_link)
+-  [Тест-кейсы](https://docs.google.com/document/d/1TDSF5lRLwuylptHOM_B2Hzi-DEwbEap5/edit?usp=drive_link&ouid=103520387481498853796&rtpof=true&sd=true)
 -  [Mind map](https://drive.google.com/file/d/199N6f6qpX0R549j-qdhSAS7tglXgnNHf/view?usp=sharing)
--  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
--  [Название проекта](https://ссылочку_сюда)
+-  [Классы эквивалентности](https://docs.google.com/spreadsheets/d/1EYRtVWypbM8hiTRU58a07o6-qpQSR8LUOrk2HDbbttY/edit?usp=drive_link)
+-  [Пример диаграммы состояний переходов](https://drive.google.com/file/d/1N1v3e8j_023KJX8xBqxdcx9eNiF2R9-b/view?usp=drive_link)
+-  [Отчет о тестировании сборки игры на Android c репортами](https://docs.google.com/document/d/133Ab4FfQN_WW_9SMKHxMmIWbG1CFhuoezQbpBo5N1R4/edit?usp=drive_link)
 
 
 
