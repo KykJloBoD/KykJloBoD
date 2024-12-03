@@ -15,12 +15,12 @@
 
 ## About me
 
-I am looking for bugs, kindness in people, and meaning in life.
+I am looking for bugs, kindness in people, and meaning in life. I live in Serbia, have visited more than 40 countries, go hiking, read, and play video games.
 
 
 ## My CV 
 
-[ENG version](https://drive.google.com/file/d/1JnmXnoeqOBl0GwXOanufziEQU20_vvWt/view?usp=drive_link)
+[ENG version](https://drive.google.com/file/d/1JnmXnoeqOBl0GwXOanufziEQU20_vvWt/view?usp=sharing)
 
 [RUS version](https://hh.ru/resume/1882ecbfff0dc0f9860039ed1f4c4751305772)
 
