@@ -29,7 +29,7 @@
 -  [Классы эквивалентности](https://docs.google.com/spreadsheets/d/1EYRtVWypbM8hiTRU58a07o6-qpQSR8LUOrk2HDbbttY/edit?usp=drive_link)
 -  [Пример диаграммы состояний переходов](https://drive.google.com/file/d/1N1v3e8j_023KJX8xBqxdcx9eNiF2R9-b/view?usp=drive_link)
 -  [Отчет о тестировании сборки игры на Android c репортами](https://docs.google.com/document/d/133Ab4FfQN_WW_9SMKHxMmIWbG1CFhuoezQbpBo5N1R4/edit?usp=drive_link)
-
+-  [Отчет о тестировании сайта онлайн школы tripleten.com](https://treasure-quiver-2da.notion.site/Bug-Tracker-192e3324098680408a4ac8792811b01f?pvs=4)
 
 
 ## Tools and technologies
